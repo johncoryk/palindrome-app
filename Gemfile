@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'sinatra', '2.0.8.1'
 gem 'rerun',   '0.13.0'
+gem 'johncoryk_palindrome', '0.1.0'
 ruby '2.7.0'
 
 group :test do
